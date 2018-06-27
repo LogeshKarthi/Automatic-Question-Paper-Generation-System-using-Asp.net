@@ -1,0 +1,6 @@
+Q1,Adieisrolledfindtheprobabilitythatanevennumberisobtained,5
+Q2,Twocoinsaretossedfindtheprobabilitythattwoheadsareobtained,10
+Q3,Twodicearerolled,findtheprobabilitythatthesumis,5
+Q4,AcardisdrawnatrandomfromadeckofcardsFindtheprobabilityofgettingthe3ofdiamond,10
+Q5,AcardisdrawnatrandomfromadeckofcardsFindtheprobabilityofgettingqueen,5   
+ 

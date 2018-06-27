@@ -1,0 +1,6 @@
+Q1,Whathappenedfirstsecondandlast?,5
+Q2,Whatthingsbelongtogether?,10
+Q3,Howdoestheauthorsummarizewhatshe/heissaying?,5
+Q4,Whatalternativesarethere?,5
+Q5,Whatisthebestsolutiontothisproblem?,10
+Q6,Howarethesethingsalike?Howaretheydifferent?,5
